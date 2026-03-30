@@ -1,5 +1,5 @@
 # 💫 About Me
-# Hello World! I'm Yaansa <br><br>🎓 Computer Science Student  <br>💡 Passionate about solving problems using code  <br><br>My interests:<br>- Data Structures & Algorithms<br>- Full-Stack Development<br>- AI & Automation Projects<br><br>Currently building projects to become **industry-ready** and land a great developer role 🚀
+# Hello World! I'm Yaansa <br><br>🎓 Computer Science Student  <br>💡 Passionate about solving problems using code  <br><br>My interests:<br>- Data Structures & Algorithms<br>- Full-Stack Development<br>- AI & Automation Projects<br><br>Currently building projects to become **industry-ready** and land a great developer role 
 
 
 # 💻 Tech Stack:
